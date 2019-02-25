@@ -386,3 +386,7 @@ a:focus, a:hover, a:active {
 .launchProject {
   display: block;
 }
+
+header, #about, #portfolio, #contact  {
+  height: 105vh;
+}
