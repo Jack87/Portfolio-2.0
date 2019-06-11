@@ -30,7 +30,7 @@ hr.star-dark:after, hr.star-light:after {
     top: -.8em;
     display: inline-block;
     padding: 0 .25em;
-    content: '\f005';
+    content: '\f21c';
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
     font-size: 2em
@@ -385,5 +385,5 @@ a:active, a:focus, a:hover {
 }
 
 header, #about, #portfolio, #contact  {
-    height: 105vh;
+    /* height: 105vh; */
 }
